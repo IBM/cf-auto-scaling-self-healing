@@ -52,7 +52,7 @@ This tutorial takes about 30 minutes to complete.
 
 Before I get started I’d like to point out that the Cloud Foundry lite plan on IBM Cloud provides you with 256 MB of memory for your apps. This demo uses all 256 MB, so if you already have any existing Cloud Foundry apps, please remove them or consider upgrading to the standard plan.
 
-1. To begin, clone [this repo](https://github.com/usfngm/cf-auto-scaling-self-healing).
+1. To begin, clone [this repo](https://github.com/ibm/cf-auto-scaling-self-healing).
 
 1. Log in to your IBM Cloud account using the IBM Cloud CLI: 
 
